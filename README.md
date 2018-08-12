@@ -1,4 +1,4 @@
-# Denoising Autencoder
+# Denoising Autoencoder
 This is a Convolutional Variational Autoencoder trained on the MNIST dataset.
 
 
